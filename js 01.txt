@@ -1,0 +1,27 @@
+Youtube: 
+
+1- Verificar o código algum elemento que utilize JavaScript;
+
+.O botão de pesquisa.
+
+2- Marcar alguns elementos do site;
+
+.O site permite a função de pesquisar pelo <input id="search">
+
+3- Explicar como ele se comporta: 
+
+. Serve para pesquisar vídeos de sua escolha.
+
+Pinterest:
+
+1- Verificar o código algum elemento que utilize JavaScript;
+
+. Abrir fotos
+
+2- Marcar alguns elementos do site;
+
+. O site permite a função de pesquisar pelo <input id="search">
+
+3- Explicar como ele se comporta: 
+
+. Ao clicar na imagem, ela dará um zoom e ficará mais nítida
